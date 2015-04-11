@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="/GameHelpers"/>
+	<classpathentry exported="true" kind="lib" path="/org.eclipse.swt/swt.jar" sourcepath="/org.eclipse.swt/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="http://help.eclipse.org/stable/nftopic/org.eclipse.platform.doc.isv/reference/api/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="org.eclipse.swt"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.core.databinding_1.4.1.v20130515-1857.jar" sourcepath="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.core.databinding.source_1.4.1.v20130515-1857.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.core.databinding.beans_1.2.200.v20130515-1857.jar" sourcepath="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.core.databinding.beans.source_1.2.200.v20130515-1857.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.core.databinding.observable_1.4.1.v20130515-1857.jar" sourcepath="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.core.databinding.observable.source_1.4.1.v20130515-1857.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.core.databinding.property_1.4.200.v20130515-1857.jar" sourcepath="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.core.databinding.property.source_1.4.200.v20130515-1857.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.jface.databinding_1.6.200.v20130515-1857.jar" sourcepath="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.jface.databinding.source_1.6.200.v20130515-1857.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar" sourcepath="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/org.eclipse.equinox.common.source_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/com.ibm.icu_50.1.1.v201304230130.jar" sourcepath="C:/Users/Rawad/Documents/Programming Tools/eclipse/plugins/com.ibm.icu.source_50.1.1.v201304230130.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
